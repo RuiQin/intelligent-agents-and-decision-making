@@ -1,1 +1,15 @@
-This repository contains my projects for course Intelligent Agents and Decision Making 
+This repository contains my projects for course Intelligent Agents and Decision Making: 
+
+1. Finite-Horizon
+Implement Markov Decision Process (MDP) models for finite horizon problems
+
+2. Infinite-Horizon
+Implement MDP models for infinite horizon problems
+
+3. Bandit-Algorithms
+Implement three bandit algorithms: Incremental Uniform, UCB, epsilon-Greedy and use them on different bandits
+
+4. Reinforcement-Learning
+Implement a model-free reinforcement learning agent using Q-learning
+
+5. Pacman (final project)
